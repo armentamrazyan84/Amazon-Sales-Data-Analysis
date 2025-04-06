@@ -19,7 +19,6 @@ High-demand categories across regions:
 3.Office Supplies
 
 Sales Channel Distribution:
-
 Offline-dominated categories:
 1.Beverages
 2.Cosmetics
@@ -36,12 +35,10 @@ Profit Trends:
 📉 A significant drop in total profit occurred between 2010 and 2011, particularly from October to November 2010, attributed to reduced sales in high-cost product categories.
 
 Top Performing Categories:
-
 Most Profitable Items:
 1.Cosmetics
 2.Household Items
 3.Baby Food
-
 Highest Revenue Generators:
 1.Cosmetics
 2.Household Items
